@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/adobe/helix-html2md-lib/compare/v2.0.0...v2.0.1) (2026-05-20)
+
+
+### Bug Fixes
+
+* handle table rows without children to avoid iterator error ([#27](https://github.com/adobe/helix-html2md-lib/issues/27)) ([d195681](https://github.com/adobe/helix-html2md-lib/commit/d1956813746e6c4c64b3e972bcd6f10c28bdea07))
+
 # [2.0.0](https://github.com/adobe/helix-html2md-lib/compare/v1.1.1...v2.0.0) (2026-02-19)
 
 
