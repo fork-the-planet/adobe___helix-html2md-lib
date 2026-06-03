@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/adobe/helix-html2md-lib/compare/v2.1.0...v2.2.0) (2026-06-03)
+
+
+### Features
+
+* add imageFilter option to html2md for flexible image filtering ([#35](https://github.com/adobe/helix-html2md-lib/issues/35)) ([5d2e5a0](https://github.com/adobe/helix-html2md-lib/commit/5d2e5a0e74e685f6f2f3d79c9b5d07a5144d13b6)), closes [#34](https://github.com/adobe/helix-html2md-lib/issues/34)
+
 # [2.1.0](https://github.com/adobe/helix-html2md-lib/compare/v2.0.1...v2.1.0) (2026-05-20)
 
 
